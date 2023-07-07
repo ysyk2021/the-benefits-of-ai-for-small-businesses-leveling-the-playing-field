@@ -1,7 +1,6 @@
 # Summary
 
 - [Chapter 1: Introduction](README.md)
-  - [Overview of the book](chapter-1-1.md)
   - [Why using AI is important for small businesses](chapter-1-2.md)
 - [Chapter 2: Understanding AI in Small Business](chapter-2.md)
   - [Historical overview of AI in small business](chapter-2-1.md)
