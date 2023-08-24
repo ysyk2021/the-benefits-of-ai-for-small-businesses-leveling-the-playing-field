@@ -1,5 +1,3 @@
-Financial Management
-=====================================================================
 
 Artificial Intelligence (AI) can revolutionize financial management in small businesses. In this chapter, we will explore how AI can be applied to financial management in small businesses.
 

@@ -1,5 +1,3 @@
-Preparing for the Future
-===================================================================
 
 The future of AI in small business is rapidly evolving, with new technologies and applications emerging all the time. In this chapter, we will explore some trends and predictions for the future of AI in small business and discuss how small businesses can prepare for what's to come.
 

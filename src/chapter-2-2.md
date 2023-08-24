@@ -1,5 +1,3 @@
-Types of AI in Small Business
-============================================================================
 
 Artificial intelligence (AI) encompasses a broad range of technologies and applications, each with its unique strengths and weaknesses. In this chapter, we will explore the different types of AI in small business.
 

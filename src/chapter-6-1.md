@@ -1,5 +1,3 @@
-Developing an AI Strategy
-=======================================================================
 
 Implementing AI in small business can be a complex process, but with the right strategy, it can be a valuable tool for improving efficiency, productivity, decision-making, and customer experience. In this chapter, we will explore how small businesses can develop an AI strategy.
 

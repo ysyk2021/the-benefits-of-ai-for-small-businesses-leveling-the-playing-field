@@ -1,5 +1,3 @@
-Addressing Potential Bias
-===================================================================
 
 As small businesses increasingly adopt AI technology, it is important to address potential bias in order to ensure fair and ethical use of this powerful tool. In this chapter, we will explore the importance of managing AI bias in small business and provide strategies for addressing potential bias.
 

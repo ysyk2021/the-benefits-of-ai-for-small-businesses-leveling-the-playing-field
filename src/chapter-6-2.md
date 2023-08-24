@@ -1,5 +1,3 @@
-Overcoming Resistance to Change
-=============================================================================
 
 Implementing AI in small business can be met with resistance from employees who may fear job loss or feel overwhelmed by the new technology. In this chapter, we will explore strategies for overcoming resistance to change and ensuring successful implementation of AI in small business.
 

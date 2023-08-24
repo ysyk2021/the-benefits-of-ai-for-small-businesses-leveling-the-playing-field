@@ -1,5 +1,3 @@
-Historical Overview of AI in Small Business
-==========================================================================================
 
 Artificial intelligence (AI) has been a buzzword for several years now, but the technology has been around for much longer than most people realize. In this chapter, we will take a historical look at AI in small business and how it has evolved over time.
 

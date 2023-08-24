@@ -1,5 +1,3 @@
-How AI Works in Small Business
-=============================================================================
 
 Artificial Intelligence (AI) is a broad field that encompasses various technologies and approaches. In this chapter, we will explore how AI works in small businesses and some of the key areas where it can be applied.
 

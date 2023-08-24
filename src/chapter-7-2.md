@@ -1,5 +1,3 @@
-Ensuring Transparency and Accountability
-==================================================================================
 
 While the benefits of Artificial Intelligence (AI) for small businesses are significant, it is important to ensure that AI-powered solutions are managed in a responsible and ethical manner. In this chapter, we will explore how small businesses can ensure transparency and accountability when managing AI.
 

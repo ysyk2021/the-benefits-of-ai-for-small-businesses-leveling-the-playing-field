@@ -1,5 +1,3 @@
-Chapter 6: Implementing AI in Small Business
-============================================
 
 Small businesses can benefit greatly from implementing artificial intelligence (AI) technologies, but it can be challenging to know where to start. In this chapter, we will discuss how small businesses can develop an AI strategy, overcome resistance to change, and implement best practices for successful implementation.
 

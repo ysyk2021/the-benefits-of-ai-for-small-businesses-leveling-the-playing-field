@@ -1,5 +1,3 @@
-Ethical Considerations
-======================================================================
 
 Artificial Intelligence (AI) presents many opportunities for small businesses, but it also poses certain ethical considerations. In this chapter, we will explore some of the key ethical challenges that small businesses must address when using AI.
 

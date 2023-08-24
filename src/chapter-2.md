@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI in Small Business
-=============================================
 
 Artificial Intelligence (AI) is changing the landscape of small businesses, offering new possibilities for efficiency and growth. In this chapter, we will explore the historical overview of AI in small business, the types of AI used in small business, and how AI works in small business.
 

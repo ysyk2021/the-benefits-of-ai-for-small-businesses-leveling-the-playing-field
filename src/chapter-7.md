@@ -1,5 +1,3 @@
-Chapter 7: Managing AI in Small Business
-========================================
 
 While Artificial Intelligence (AI) presents many opportunities for small businesses, it is important to manage AI-powered solutions in a responsible and ethical manner. In this chapter, we will explore some best practices for managing AI in small business.
 

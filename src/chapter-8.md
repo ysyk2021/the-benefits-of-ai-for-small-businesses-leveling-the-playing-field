@@ -1,5 +1,3 @@
-Chapter 8: Future of AI in Small Business
-=========================================
 
 As Artificial Intelligence (AI) continues to evolve, its impact on small businesses will only become more significant. In this chapter, we will explore the future of AI in small business, including emerging trends, potential challenges and opportunities, and how small businesses can prepare for the future.
 

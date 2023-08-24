@@ -1,5 +1,3 @@
-Legal Considerations
-====================================================================
 
 Artificial Intelligence (AI) presents many opportunities for small businesses, but it also poses certain legal considerations. In this chapter, we will explore some of the key legal concerns that small businesses must address when using AI.
 

@@ -1,5 +1,3 @@
-Enhanced Decision-Making
-======================================================================
 
 Artificial intelligence (AI) has the potential to revolutionize decision-making for small businesses. In this chapter, we will explore how AI can enhance decision-making processes and provide small businesses with a competitive advantage.
 

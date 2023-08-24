@@ -1,5 +1,3 @@
-Chapter 5: Applications of AI in Small Business
-===============================================
 
 Artificial Intelligence (AI) presents many opportunities for small businesses to improve efficiency, enhance customer experience, and make more informed decisions. In this chapter, we will explore the applications of AI in small business across three key areas: financial management, marketing and sales, and operations and logistics.
 
