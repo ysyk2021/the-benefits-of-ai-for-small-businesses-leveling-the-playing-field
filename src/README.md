@@ -10,3 +10,7 @@ We will also examine case studies of small businesses that have successfully imp
 Whether you are a small business owner or an entrepreneur looking to start a new venture, this book will provide valuable insights into how AI technology can help level the playing field and drive success.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
