@@ -1,5 +1,4 @@
-Chapter: Addressing Potential Bias
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of addressing potential bias when using artificial intelligence (AI) for small businesses. While AI offers numerous benefits, it is crucial for small businesses to be aware of and proactively address any biases that may arise in AI systems.
 

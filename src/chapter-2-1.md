@@ -1,5 +1,4 @@
-Chapter: Historical Overview of AI in Small Business
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) has rapidly transformed various sectors, including small businesses. This chapter provides a historical overview of the adoption and evolution of AI in small business settings, highlighting key milestones and advancements.
 

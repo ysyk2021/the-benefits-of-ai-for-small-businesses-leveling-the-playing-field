@@ -1,5 +1,4 @@
-Chapter: Financial Management
-=============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the benefits of using artificial intelligence (AI) for financial management in small businesses. AI has the potential to revolutionize various aspects of financial management, enabling small businesses to streamline processes, make informed decisions, and optimize their financial performance.
 

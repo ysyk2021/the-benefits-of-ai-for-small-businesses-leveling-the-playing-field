@@ -1,5 +1,4 @@
-Chapter: Developing an AI Strategy
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Developing a well-defined AI strategy is crucial for small businesses to successfully leverage the benefits of artificial intelligence and level the playing field. An AI strategy serves as a roadmap that aligns business goals with AI capabilities, enabling small businesses to make informed decisions and drive meaningful outcomes. In this chapter, we will explore the key steps involved in developing an AI strategy for small businesses.
 

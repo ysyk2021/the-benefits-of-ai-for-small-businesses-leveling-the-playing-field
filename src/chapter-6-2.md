@@ -1,5 +1,4 @@
-Chapter: Overcoming Resistance to Change
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the common challenges and strategies for overcoming resistance to change when implementing AI in small businesses. While the benefits of AI for small businesses are numerous, embracing new technologies can often be met with resistance from various stakeholders. Understanding and addressing these resistance factors is essential to successfully leverage AI and level the playing field for small businesses.
 

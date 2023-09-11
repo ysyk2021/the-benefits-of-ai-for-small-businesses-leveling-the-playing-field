@@ -1,5 +1,4 @@
-Chapter: Emerging Trends
-========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the emerging trends in artificial intelligence (AI) that small businesses should be aware of as they continue to adopt and leverage AI technologies. These trends offer new opportunities and challenges for small businesses to take advantage of and overcome.
 

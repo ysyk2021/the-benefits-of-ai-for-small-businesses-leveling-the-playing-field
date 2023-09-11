@@ -1,5 +1,4 @@
-Chapter: Enhanced Decision-Making
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how artificial intelligence (AI) can enhance decision-making for small businesses. AI technologies provide valuable insights, automate data analysis, and support informed decision-making processes, leveling the playing field for small businesses in terms of strategic and operational decision-making.
 

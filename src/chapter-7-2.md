@@ -1,5 +1,4 @@
-Chapter: Ensuring Transparency and Accountability
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the importance of transparency and accountability in the use of artificial intelligence (AI) for small businesses. As AI plays an increasingly significant role in various business processes, it is crucial for small businesses to prioritize transparency and ensure ethical and responsible use of AI technologies.
 
